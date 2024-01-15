@@ -5,10 +5,10 @@ namespace App\Http\Controllers\API;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 
-class NotificationController extends Controller
+class NewController extends Controller
 {
-    public function SendNotification()
+    public function glucose()
     {
-        
+        return 'glucose feature closed';
     }
 }
