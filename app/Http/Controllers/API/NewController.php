@@ -16,6 +16,8 @@ class NewController extends Controller
     {
         //working on changes of new feature controller 
         $this->newFeatureService->scheduleFeature();
+
+        // finishing improvement development 
     }
 
     public function addMore(){
