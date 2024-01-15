@@ -14,6 +14,13 @@ class WatchController extends Controller
 
     public function FetchWatchData()
     {
+
+    }
+
+    public function FetchStepsAndWatch()
+    {
         
     }
+
+
 }
